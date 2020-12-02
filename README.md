@@ -31,3 +31,8 @@ Description: Known COVID-19 cases by county for the United States
 Source: [Here](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 Name: covid_county_population_usafacts.csv
 Description: Population by county
+
+After realizing that my data did not contain deaths, which were recorded in a seperate csv file. I downloaded the final dataset
+Source: [Here](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
+Name covid_deaths_usafacts.csv
+Description: Known COVID-19 deaths by county for the United States
